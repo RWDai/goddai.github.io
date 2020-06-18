@@ -14,14 +14,16 @@ defaults:
     values:
       image: true
 
-title: Minimalism
+title: GodDai的博客
 name: GodDai
 #description: Minimalism is a jekyll theme for minimalist
+copyright_time: 2020
 avatar: https://avatars1.githubusercontent.com/u/27391645?s=460&u=bd4f111d53ed93f878bc70ee883e234c5312922a&v=4
 
 github: https://github.com/goddai
 rss: true
 
+#theme: jekyll-theme-minimalism
 remote_theme: showzeng/Minimalism
 
 plugins:
