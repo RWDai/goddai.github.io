@@ -15,11 +15,14 @@ defaults:
       image: true
 
 title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+name: GodDai
+#description: Minimalism is a jekyll theme for minimalist
+avatar: https://avatars1.githubusercontent.com/u/27391645?s=460&u=bd4f111d53ed93f878bc70ee883e234c5312922a&v=4
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/goddai
 rss: true
+
+remote_theme: showzeng/Minimalism
 
 plugins:
   - rouge
