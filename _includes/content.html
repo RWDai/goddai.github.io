@@ -1,4 +1,9 @@
 <div class="page-content">
+  {% if page.haveToc and page.haveToc== true %}
+    <div class="toc">
+      {% include toc.html html=content %}
+    </div>
+  {% endif %}
   <div class="content" id="post-content">
     <p>{{ content }}</p>
 

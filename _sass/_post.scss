@@ -11,7 +11,6 @@ body {
   word-break: break-word;
   word-wrap: break-word;
 }
-
 img {
   display: block;
 
@@ -32,7 +31,6 @@ header {
             animation: twinkle 2s linear infinite !important;
   }
 }
-
 .title {
   margin: 30px auto 10px !important;
 }
@@ -40,7 +38,11 @@ header {
 .title .title-tip {
   right: 105% !important;
 }
-
+.toc{
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
 .article-title-description {
   margin: 0 auto;
   padding: 0 30px;
