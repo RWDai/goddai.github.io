@@ -1,10 +1,10 @@
 ---
 title: Spring GateWay OAuth2ResourceServer 配置ServerHttpSecurity中的hasRole 无效的问题
 date:  2020-03-25 11:54:21 +0800
+haveToc: true
 category:
 tags: 
 excerpt:
-haveToc: true
 ---
 # 问题
 当gateway充当OAuth2ResourceServer的时候，会出现hasRole配置无效的问题。

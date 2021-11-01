@@ -54,6 +54,8 @@ remote_theme: showzeng/Minimalism
 
 ## 使用
 
+[jekyll官方文档]http://jekyllcn.com/docs/usage/
+`bundle exec jekyll build` 构建
 移步 [wiki] 或者查看 [demo]。
 
 ## 支持
