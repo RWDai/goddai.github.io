@@ -23,8 +23,8 @@ avatar: https://s1.ax1x.com/2020/06/18/Nm8fzD.jpg
 github: https://github.com/goddai
 rss: true
 
-#theme: jekyll-theme-minimalism
-remote_theme: showzeng/Minimalism
+theme: jekyll-theme-minimalism
+#remote_theme: showzeng/Minimalism
 
 plugins:
   - rouge
